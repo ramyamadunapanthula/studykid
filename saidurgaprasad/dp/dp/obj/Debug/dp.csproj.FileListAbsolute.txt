@@ -1,0 +1,156 @@
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\dp.dll
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\dp.pdb
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\AppManifest.xaml
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\App.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\MainPage.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\dp.g.resources
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\dp.dll
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\dp.pdb
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\XapCacheFile.xml
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\sai2.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\sai3.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\sai4.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\sai5.g.cs
+c:\users\mic user\documents\visual studio 2013\Projects\dp\dp\obj\Debug\sai6.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\dp.dll
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\dp.pdb
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\App.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\MainPage.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\sai2.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\sai3.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\sai5.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\sai6.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\dp.g.resources
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\dp.dll
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\dp.pdb
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\AppManifest.xaml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\XapCacheFile.xml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\blinddum.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\ramya\dp\dp\obj\Debug\Page1.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\dp.dll
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\dp.pdb
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\AppManifest.xaml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\App.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\blinddum.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\MainPage.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\Page1.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\sai2.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\sai3.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\sai5.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\sai6.g.cs
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\dp.g.resources
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\dp.dll
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\dp.pdb
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\XapCacheFile.xml
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\saidurgaprasad\dp\dp\Bin\Debug\dp.dll
+G:\saidurgaprasad\dp\dp\Bin\Debug\dp.pdb
+G:\saidurgaprasad\dp\dp\Bin\Debug\AppManifest.xaml
+G:\saidurgaprasad\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+G:\saidurgaprasad\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+G:\saidurgaprasad\dp\dp\obj\Debug\App.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\blinddum.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\MainPage.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\Page1.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\sai2.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\sai3.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\sai5.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\sai6.g.cs
+G:\saidurgaprasad\dp\dp\obj\Debug\dp.g.resources
+G:\saidurgaprasad\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+G:\saidurgaprasad\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+G:\saidurgaprasad\dp\dp\obj\Debug\dp.dll
+G:\saidurgaprasad\dp\dp\obj\Debug\dp.pdb
+G:\saidurgaprasad\dp\dp\obj\Debug\XapCacheFile.xml
+C:\Users\MIC User\Documents\Visual Studio 2013\Projects\saidurgaprasad\dp\dp\obj\Debug\voicetest.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\dp.dll
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\dp.pdb
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\AppManifest.xaml
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\App.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\blinddum.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\MainPage.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\Page1.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\sai2.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\sai3.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\sai5.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\sai6.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\voicetest.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\dp.g.resources
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\dp.dll
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\dp.pdb
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\XapCacheFile.xml
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\slideshow.g.cs
+C:\Users\MIC\Desktop\saidurgaprasad\dp\dp\obj\Debug\numslide.g.cs
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\dp.dll
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\dp.pdb
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\AppManifest.xaml
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\saidurgaprasad\dp\dp\Bin\Debug\dp_Debug_AnyCPU.xap
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\App.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\blinddum.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\MainPage.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\numslide.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\Page1.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\sai2.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\sai3.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\sai5.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\sai6.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\slideshow.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\voicetest.g.cs
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\dp.g.resources
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\dp.Resources.AppResources.resources
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\dp.csproj.GenerateResource.Cache
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\dp.dll
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\dp.pdb
+C:\Users\saidurgaprasad\dp\dp\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D9C810E-4ED4-4B2B-BFFC-F6ADE85CA99C}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dp</RootNamespace>
+    <AssemblyName>dp</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>dp_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>dp.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="blinddum.xaml.cs">
+      <DependentUpon>blinddum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="numslide.xaml.cs">
+      <DependentUpon>numslide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="sai2.xaml.cs">
+      <DependentUpon>sai2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sai3.xaml.cs">
+      <DependentUpon>sai3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sai5.xaml.cs">
+      <DependentUpon>sai5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sai6.xaml.cs">
+      <DependentUpon>sai6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slideshow.xaml.cs">
+      <DependentUpon>slideshow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="voicetest.xaml.cs">
+      <DependentUpon>voicetest.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="blinddum.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="numslide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sai2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sai3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sai5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="sai6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="slideshow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="voicetest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\1242x2208-mickey_candy_mickey_mouse_in_candy_land_artistic_mouse-28920.jpg" />
+    <Content Include="Assets\3D-Leaves-and-Water-Drop-wallpapers.jpg" />
+    <Content Include="Assets\4.jpg" />
+    <Content Include="Assets\1.jpg" />
+    <Content Include="Assets\123.jpg" />
+    <Content Include="Assets\Abstract-Colorful-Lemon-slices-iphone-6-wallpaper-ilikewallpaper_com.jpg" />
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\alphabt 1.mp3" />
+    <Content Include="Assets\alphabt 1.mp4" />
+    <Content Include="Assets\alp_images\ice.png" />
+    <Content Include="Assets\alp_images\ka.png" />
+    <Content Include="Assets\alp_images\ow.jpg" />
+    <Content Include="Assets\alp_images\su.png" />
+    <Content Include="Assets\alp_images\ro.jpg" />
+    <Content Include="Assets\alp_images\wa.png" />
+    <Content Include="Assets\alp_images\va.jpg" />
+    <Content Include="Assets\alp_images\ca.jpg" />
+    <Content Include="Assets\alp_images\ju.png" />
+    <Content Include="Assets\alp_images\do.jpg" />
+    <Content Include="Assets\alp_images\pe.jpg" />
+    <Content Include="Assets\alp_images\qu.jpg" />
+    <Content Include="Assets\alp_images\ti.jpg" />
+    <Content Include="Assets\alp_images\um.jpg" />
+    <Content Include="Assets\alp_images\xa.jpg" />
+    <Content Include="Assets\alp_images\ya.jpg" />
+    <Content Include="Assets\alp_images\ze.jpg" />
+    <Content Include="Assets\alp_images\ele.jpg" />
+    <Content Include="Assets\alp_images\fi.jpg" />
+    <Content Include="Assets\alp_images\go.jpg" />
+    <Content Include="Assets\alp_images\hor.jpg" />
+    <Content Include="Assets\alp_images\li.jpg" />
+    <Content Include="Assets\alp_images\ma.jpg" />
+    <Content Include="Assets\alp_images\ne.jpg" />
+    <Content Include="Assets\alp_images\ap.jpg" />
+    <Content Include="Assets\alp_images\bal.jpg" />
+    <Content Include="Assets\alp_letters\a.jpg" />
+    <Content Include="Assets\alp_letters\b.jpg" />
+    <Content Include="Assets\alp_letters\c.jpg" />
+    <Content Include="Assets\alp_letters\d.jpg" />
+    <Content Include="Assets\alp_letters\e.jpg" />
+    <Content Include="Assets\alp_letters\f.jpg" />
+    <Content Include="Assets\alp_letters\g.jpg" />
+    <Content Include="Assets\alp_letters\h.jpg" />
+    <Content Include="Assets\alp_letters\i.jpg" />
+    <Content Include="Assets\alp_letters\j.jpg" />
+    <Content Include="Assets\alp_letters\k.jpg" />
+    <Content Include="Assets\alp_letters\l.png" />
+    <Content Include="Assets\alp_letters\m.jpg" />
+    <Content Include="Assets\alp_letters\n.jpg" />
+    <Content Include="Assets\alp_letters\o.jpg" />
+    <Content Include="Assets\alp_letters\p.jpg" />
+    <Content Include="Assets\alp_letters\q.jpg" />
+    <Content Include="Assets\alp_letters\r.jpg" />
+    <Content Include="Assets\alp_letters\s.jpg" />
+    <Content Include="Assets\alp_letters\t.jpg" />
+    <Content Include="Assets\alp_letters\u.jpg" />
+    <Content Include="Assets\alp_letters\v.jpg" />
+    <Content Include="Assets\alp_letters\w.jpg" />
+    <Content Include="Assets\alp_letters\x.jpg" />
+    <Content Include="Assets\alp_letters\y.jpg" />
+    <Content Include="Assets\alp_letters\z.jpg" />
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\BBU.jpg" />
+    <Content Include="Assets\blu.jpg" />
+    <Content Include="Assets\bubble-wallpaper-7.jpg" />
+    <Content Include="Assets\ccb7562bde71fa947c882dc0556b1867.jpg" />
+    <Content Include="Assets\CLR.jpg" />
+    <Content Include="Assets\Cute Wallpapers For iPhone 6 Plus 341.jpg" />
+    <Content Include="Assets\cute_wallpapers_for_iphone_5s_love_heart_background_0b62e6637f156d5a85aaff026768b6c7_raw.jpg" />
+    <Content Include="Assets\download %2812%29.jpg" />
+    <Content Include="Assets\download %282%29.jpg" />
+    <Content Include="Assets\download %283%29.jpg" />
+    <Content Include="Assets\download %285%29.jpg" />
+    <Content Include="Assets\download %288%29.jpg" />
+    <Content Include="Assets\download.jpg" />
+    <Content Include="Assets\download.png" />
+    <Content Include="Assets\f455b5ac91c98563e925ac36adedaac7.jpg" />
+    <Content Include="Assets\flwr.jpg" />
+    <Content Include="Assets\Flying-Balloons-In-Blue-Sky-iphone-6-wallpaper-ilikewallpaper_com.jpg" />
+    <Content Include="Assets\image08_iPhone6-6S-Plus.jpg" />
+    <Content Include="Assets\images %281%29.jpg" />
+    <Content Include="Assets\images %2811%29.jpg" />
+    <Content Include="Assets\images %2812%29.jpg" />
+    <Content Include="Assets\images %2813%29.jpg" />
+    <Content Include="Assets\images %2815%29.jpg" />
+    <Content Include="Assets\images %2818%29.jpg" />
+    <Content Include="Assets\images %2819%29.jpg" />
+    <Content Include="Assets\images %2822%29.jpg" />
+    <Content Include="Assets\images %2824%29.jpg" />
+    <Content Include="Assets\images %2825%29.jpg" />
+    <Content Include="Assets\images %2827%29.jpg" />
+    <Content Include="Assets\images %283%29.jpg" />
+    <Content Include="Assets\images %285%29.jpg" />
+    <Content Include="Assets\images %286%29.jpg" />
+    <Content Include="Assets\images %287%29.jpg" />
+    <Content Include="Assets\images %288%29.jpg" />
+    <Content Include="Assets\images.jpg" />
+    <Content Include="Assets\iphone-6-wallpapers-hd-a5dej %281%29.jpg" />
+    <Content Include="Assets\iphone-6s-wallpaper-HD-1528mg4go-720x1280.jpg" />
+    <Content Include="Assets\iphone-6s-wallpaper-HD-20226jy5x-720x1280.jpg" />
+    <Content Include="Assets\joined-all - song.mp3" />
+    <Content Include="Assets\joined-all.mp4" />
+    <Content Include="Assets\Love Candy Wallpapers HD 2560x1440.jpg" />
+    <Content Include="Assets\numbers\11.jpg" />
+    <Content Include="Assets\numbers\110.png" />
+    <Content Include="Assets\numbers\12.png" />
+    <Content Include="Assets\numbers\13.png" />
+    <Content Include="Assets\numbers\14.png" />
+    <Content Include="Assets\numbers\15.png" />
+    <Content Include="Assets\numbers\16.png" />
+    <Content Include="Assets\numbers\17.png" />
+    <Content Include="Assets\numbers\18.jpg" />
+    <Content Include="Assets\numbers\19.png" />
+    <Content Include="Assets\number\1.jpg" />
+    <Content Include="Assets\number\10.png" />
+    <Content Include="Assets\number\2.jpg" />
+    <Content Include="Assets\number\3.jpg" />
+    <Content Include="Assets\number\4.jpg" />
+    <Content Include="Assets\number\5.jpg" />
+    <Content Include="Assets\number\6.png" />
+    <Content Include="Assets\number\7.jpg" />
+    <Content Include="Assets\number\8.jpg" />
+    <Content Include="Assets\number\9.jpg" />
+    <Content Include="Assets\spel_img\app.jpg" />
+    <Content Include="Assets\spel_img\ballll.png" />
+    <Content Include="Assets\spel_img\cat.jpg" />
+    <Content Include="Assets\spel_img\dog.jpg" />
+    <Content Include="Assets\spel_img\elep.jpg" />
+    <Content Include="Assets\spel_img\fishhhh.jpg" />
+    <Content Include="Assets\spel_img\goat.png" />
+    <Content Include="Assets\spel_img\hors.jpg" />
+    <Content Include="Assets\spel_img\icecr.jpg" />
+    <Content Include="Assets\spel_img\jugg.jpg" />
+    <Content Include="Assets\spel_img\kangroo.jpg" />
+    <Content Include="Assets\spel_img\lion.jpg" />
+    <Content Include="Assets\spel_img\mangoo.jpg" />
+    <Content Include="Assets\spel_img\nst.jpg" />
+    <Content Include="Assets\spel_img\owlll.jpg" />
+    <Content Include="Assets\spel_img\peacockkk.jpg" />
+    <Content Include="Assets\spel_img\qu.png" />
+    <Content Include="Assets\spel_img\rosess.png" />
+    <Content Include="Assets\spel_img\sunn.jpg" />
+    <Content Include="Assets\spel_img\tigee.jpg" />
+    <Content Include="Assets\spel_img\umbrla.jpg" />
+    <Content Include="Assets\spel_img\van.jpg" />
+    <Content Include="Assets\spel_img\watrmlll.jpg" />
+    <Content Include="Assets\spel_img\yakkkk.jpg" />
+    <Content Include="Assets\spel_img\ze.jpg" />
+    <Content Include="Assets\STR.jpg" />
+    <Content Include="Assets\Strawberry Candy iphone 6 plus Wallpaper.jpg" />
+    <Content Include="Assets\Sunset and cute dolphin Wallpapers for iPhone 6 Plus.jpg" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\voices\alp.MP3" />
+    <Content Include="Assets\voices\blind.MP3" />
+    <Content Include="Assets\voices\CreateSpeech_4.MP3" />
+    <Content Include="Assets\maxresdefault.jpg" />
+    <Content Include="Assets\voices\num.MP3" />
+    <Content Include="Assets\voices\numoralp.MP3" />
+    <Content Include="Assets\voices\screen rotation.MP3" />
+    <Content Include="Assets\voices\speech.mp3" />
+    <Content Include="Assets\YLW.jpg" />
+    <Content Include="IMG-20160223-WA0006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\alphabet\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

@@ -1,0 +1,28 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="dp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid HorizontalAlignment="Left" Height="801" VerticalAlignment="Top" Width="480" Margin="0,-33,0,0">
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="/Assets\4.jpg"/>
+        </Grid.Background>
+        <Button x:Name="SpeechToText" Click="SpeechToText_Click" Margin="-22,-46,-17,-21" RenderTransformOrigin="0.575,0.499" >
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/4.jpg"/>
+            </Button.Background>
+        </Button>
+        <HyperlinkButton Content="Welcome" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="97,129,0,0" Width="297" Height="54" FontSize="72" Click="HyperlinkButton_Click" FontFamily="Calibri"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>
